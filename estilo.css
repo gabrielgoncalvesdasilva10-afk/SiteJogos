@@ -1,0 +1,58 @@
+body {
+  background: #fff8ee;
+  color: #2b2b2b;
+}
+
+.navbar {
+  background: #1f6f6b;
+}
+
+.navbar-brand {
+  color: #ffe08a !important;
+  font-weight: bold;
+}
+
+.navbar .nav-link {
+  color: white;
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link.active {
+  color: #ffe08a;
+}
+
+h1, h2 {
+  color: #1f6f6b;
+}
+
+.btn-jogo {
+  background: #e76f51;
+  color: white;
+  border: none;
+}
+
+.btn-jogo:hover {
+  background: #cf5a3d;
+  color: white;
+}
+
+.card {
+  border: 2px solid #1f6f6b;
+}
+
+.card-title {
+  color: #e76f51;
+}
+
+.table thead {
+  background: #1f6f6b;
+  color: white;
+}
+
+footer {
+  background: #1f6f6b;
+  color: white;
+  padding: 15px 0;
+  margin-top: 40px;
+  text-align: center;
+}
